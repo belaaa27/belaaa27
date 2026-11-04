@@ -61,6 +61,14 @@ A food delivery web application developed with online ordering and payment integ
 - **Live:** https://timecafepizzeria.com
 - **Repository:** https://github.com/belaaa27/Time-Cafe
 - **Stack:** React, Node.js, Express, MariaDB
+
+- 
+### 3. Henok Art Studio
+A creative web project showcasing an art studio through a dedicated website.
+
+- **Live:** https://henok-art-studio.netlify.app
+- **Repository:** https://github.com/belaaa27/henok-art-studio
+
 ---
 
 ## 📫 Connect With Me
