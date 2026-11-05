@@ -56,11 +56,11 @@ My personal full-stack developer portfolio, featuring a dynamic project showcase
 - **Stack:** Next.js, React, Prisma, MariaDB, Tailwind CSS
 
 ### 2. Time Cafe Pizzeria
-A food delivery web application developed with online ordering and payment integration.
+A full-stack food delivery platform with customer ordering, Chapa payments, and an admin dashboard for managing products, orders, and staff.
 
-- **Live:** https://timecafepizzeria.com
-- **Repository:** https://github.com/belaaa27/Time-Cafe
-- **Stack:** React, Node.js, Express, MariaDB
+- **Live:** https://time-delivery.netlify.app
+- **Repository:** https://github.com/belaaa27/TimeCafe-Project
+- **Stack:** React, Node.js, Express, MariaDB, chapa, Next.js
 
 - 
 ### 3. Henok Art Studio
