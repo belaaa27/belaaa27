@@ -55,7 +55,7 @@ My personal full-stack developer portfolio, featuring a dynamic project showcase
 - **Repository:** https://github.com/belaaa27/abel-digital-studio
 - **Stack:** Next.js, React, Prisma, MariaDB, Tailwind CSS
 
-### 2. Time Cafe Pizzeria
+### 2. Time Cafe Project
 A full-stack food delivery platform with customer ordering, Chapa payments, and an admin dashboard for managing products, orders, and staff.
 
 - **Live:** https://time-delivery.netlify.app
